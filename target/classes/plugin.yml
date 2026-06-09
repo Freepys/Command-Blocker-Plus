@@ -1,0 +1,12 @@
+# Freeperr copyright
+
+name: CommandBlockerPlus
+version: '1.1'
+main: me.Freeperr.commandBlockerPlus.CommandBlockerPlus
+api-version: '1.21'
+author: Freeperr
+description: Blocks unauthorized commands with a custom message and sound.
+permissions:
+  commandblockerplus.noneopscommands:
+    description: Allows use of commands listed in noneops-commands config section
+    default: op

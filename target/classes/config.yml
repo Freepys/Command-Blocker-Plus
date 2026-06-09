@@ -1,0 +1,26 @@
+# Freeperr copyright
+blocked-message: "&cᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴅᴏᴇꜱ ɴᴏᴛ ᴇxɪꜱᴛ."
+
+# List of commands that players WITHOUT op are allowed to use
+allowed-commands:
+  - tpa
+  - tpaccept
+  - tpdeny
+  - tpahere
+  - pw
+  - rtp
+  - spawn
+  - msg
+  - r
+  - help
+
+# Commands that players with the 'commandblockerplus.noneopscommands' permission can use
+# Useful for staff/moderators who should have limited command access without being fully OP
+noneops-commands:
+  - gamemode
+  - tp
+  - ban
+  - kick
+  - mute
+  - tempban
+  - warn
